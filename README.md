@@ -1,1 +1,1 @@
-# risa-hotkeys
+# SE AutoHotkey Scripts
